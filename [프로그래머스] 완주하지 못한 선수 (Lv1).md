@@ -28,7 +28,7 @@
 
 ____
 
-> ### < Code >
+> #### < Code : Python >
 ```python
 def solution_notComplete(participant, completion):
     participant.sort()
