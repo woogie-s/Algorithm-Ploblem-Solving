@@ -1,4 +1,4 @@
-# 2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임 (Level 2)
+# 2018 KAKAO BLIND RECRUITMENT > [3차] n진수 게임 (Level 2)
 문제 : https://programmers.co.kr/learn/courses/30/lessons/17687
 
 ## 문제 설명
