@@ -11,5 +11,5 @@ def solution_notComplete(participant, completion):
         if participant[i] != completion[i]:
             answer = participant[i]
             break
-    print(answer)
+        
     return answer
